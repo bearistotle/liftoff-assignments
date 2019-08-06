@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+![User Home Page](P3-Project_Planning/user-homepage-wireframe.jpg)
+![User Events Page](/events-wireframe.jpg)
+![User Activities Page](/activities-wireframe.jpg)
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Trello Board](https://trello.com/b/ndwVebnT/liftoff-project)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[GitHub Repo](https://github.com/bearistotle/community-builder)
