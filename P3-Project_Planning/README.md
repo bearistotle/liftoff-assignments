@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![User Home Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/user-homepage-wireframe.jpg?raw=true)
-![User Events Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/events-wireframe.jpg?raw=true)
-![User Activities Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/activities-wireframe.jpg?raw=true)
+[User Home Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/user-homepage-wireframe.jpg?raw=true)
+[User Events Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/events-wireframe.jpg?raw=true)
+[User Activities Page](https://github.com/bearistotle/liftoff-assignments/blob/master/images/activities-wireframe.jpg?raw=true)
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/ndwVebnT/liftoff-project)
