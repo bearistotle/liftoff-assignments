@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![User Home Page](images/user-homepage-wireframe.jpg)
-![User Events Page](images/events-wireframe.jpg)
-![User Activities Page](images/activities-wireframe.jpg)
+![User Home Page](images/user-homepage-wireframe.jpg?raw=true)
+![User Events Page](images/events-wireframe.jpg?raw=true)
+![User Activities Page](images/activities-wireframe.jpg?raw=true)
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/ndwVebnT/liftoff-project)
