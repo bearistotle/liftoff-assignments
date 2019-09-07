@@ -12,5 +12,5 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/brandon-walker-6aa121190/)
 
 ### Resume
-[Resume](/C1-Online_Profiles/resume.pdf)
+[Resume](/C1-Online_Profiles/updated-resume.pdf)
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
